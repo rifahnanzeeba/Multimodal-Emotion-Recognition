@@ -13,7 +13,7 @@
       "<class 'list'>\n",
       "Length: 4\n",
       "First item type: <class 'numpy.ndarray'>\n",
-      "First item: [[[[[ 20  27  22]\n",
+      "First item: [[[[[ 20  27  22]\n", 
       "    [ 18  25  20]\n",
       "    [ 15  21  17]\n",
       "    ...\n",
